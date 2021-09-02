@@ -1,2 +1,2 @@
 # Grid
-Making Grid InPygame
+Making Grid In Pygame
